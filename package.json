@@ -1,0 +1,9 @@
+{
+  "name": "abhisave",
+  "version": "1.0.0",
+  "description": "Video downloader website",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {}
+}
